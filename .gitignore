@@ -1,0 +1,12 @@
+# MATLAB and editor outputs
+.DS_Store
+*.asv
+*.m~
+*.mex*
+*.fig
+*.mat
+
+# Generated figures and local work
+figures/generated/
+archive/
+scratch/

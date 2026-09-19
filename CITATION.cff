@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper and this repository."
+title: "Code for Common Parameterizations Tend to Overestimate the Dry Deposition of Coarse and Larger Dust"
+type: software
+authors:
+  - family-names: Evan
+    given-names: Amato T.
+  - family-names: Chamecki
+    given-names: Marcelo
+  - family-names: Kok
+    given-names: Jasper
+  - family-names: Ying
+    given-names: Tong
+repository-code: "https://github.com/amatoevan/Dry_Deposition"
+date-released: 2026-09-18
