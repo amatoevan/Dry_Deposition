@@ -1,0 +1,187 @@
+[
+  {
+    "path": "src/deposition_velocity.m",
+    "source": "src/deposition_velocity.m",
+    "action": "copied"
+  },
+  {
+    "path": "src/settling_velocity.m",
+    "source": "src/settling_velocity.m",
+    "action": "copied; trailing whitespace normalized"
+  },
+  {
+    "path": "src/fragment/sensitivity/plot_fragment_zhang_parameter_ensemble.m",
+    "source": "src/fragment/sensitivity/plot_fragment_zhang_parameter_ensemble.m",
+    "action": "copied with package-relative output paths"
+  },
+  {
+    "path": "src/ocotillo/plot_default_vs_fragment_lambda0.m",
+    "source": "src/ocotillo/plot_default_vs_fragment_lambda0.m",
+    "action": "copied with package-relative output paths"
+  },
+  {
+    "path": "src/enhancement/step03_plot_residuals.m",
+    "source": "src/enhancement/step03_plot_residuals.m",
+    "action": "copied with package-relative output paths"
+  },
+  {
+    "path": "src/enhancement/step06_plot_wd_bin_specific_lambda.m",
+    "source": "src/enhancement/step06_plot_wd_bin_specific_lambda.m",
+    "action": "copied"
+  },
+  {
+    "path": "src/enhancement/step07_plot_wd_constant_lambda_four_bins.m",
+    "source": "src/enhancement/step07_plot_wd_constant_lambda_four_bins.m",
+    "action": "copied"
+  },
+  {
+    "path": "data/fragment/derived/Fragment_fit_ready_MC.mat",
+    "source": "data/fragment/derived/Fragment_fit_ready_MC.mat",
+    "action": "copied"
+  },
+  {
+    "path": "data/fragment/derived/Fragment_wd_plot_data_MC.mat",
+    "source": "data/fragment/derived/Fragment_wd_plot_data_MC.mat",
+    "action": "copied"
+  },
+  {
+    "path": "data/fragment/results/Fragment_fit_alpha_gamma_MC.mat",
+    "source": "data/fragment/results/Fragment_fit_alpha_gamma_MC.mat",
+    "action": "copied"
+  },
+  {
+    "path": "data/zhang2014/results/zhang14_fit_default_cliftgauvin_n2000.mat",
+    "source": "data/zhang2014/results/zhang14_fit_default_cliftgauvin_n2000.mat",
+    "action": "copied"
+  },
+  {
+    "path": "data/ocotillo/derived/eddypro_10min_fdiff_pc10_fc/step01b_cdp_mc_selected_10min_7bins_paired_reference_heights.mat",
+    "source": "data/ocotillo/derived/eddypro_10min_fdiff_pc10_fc/step01b_cdp_mc_selected_10min_7bins_paired_reference_heights.mat",
+    "action": "copied"
+  },
+  {
+    "path": "data/ocotillo/results/eddypro_10min_fdiff_pc10_fc/ocotillo_wd_10min_7bins_default_fragment_lambda_at_2p1m_statistics.mat",
+    "source": "data/ocotillo/results/eddypro_10min_fdiff_pc10_fc/ocotillo_wd_10min_7bins_default_fragment_lambda_at_2p1m_statistics.mat",
+    "action": "copied"
+  },
+  {
+    "path": "data/ocotillo/results/eddypro_10min_fdiff_pc10_fc/ocotillo_CDP_fit_10min_7bins_fourCase_alpha_gamma_lambda_MC.mat",
+    "source": "data/ocotillo/results/eddypro_10min_fdiff_pc10_fc/ocotillo_CDP_fit_10min_7bins_fourCase_alpha_gamma_lambda_MC.mat",
+    "action": "copied"
+  },
+  {
+    "path": "data/enhancement/results/wd_difference_alpha0p06_gamma0p4.mat",
+    "source": "data/enhancement/results/wd_difference_alpha0p06_gamma0p4.mat",
+    "action": "copied"
+  },
+  {
+    "path": "data/enhancement/results/enhancement_lambda_four_fragment_bins_ocotillo_mc.mat",
+    "source": "data/enhancement/results/enhancement_lambda_four_fragment_bins_ocotillo_mc.mat",
+    "action": "copied"
+  },
+  {
+    "path": "data/enhancement/results/enhance_wd_bin_specific_lambda_statistics.mat",
+    "source": "data/enhancement/results/enhance_wd_bin_specific_lambda_statistics.mat",
+    "action": "copied"
+  },
+  {
+    "path": "data/enhancement/results/enhance_wd_constant_lambda_four_fragment_bins_cdp_statistics.mat",
+    "source": "data/enhancement/results/enhance_wd_constant_lambda_four_fragment_bins_cdp_statistics.mat",
+    "action": "copied"
+  },
+  {
+    "path": "reference_figures/SchematicMeasure.jpg",
+    "source": "Measurements Paper/ACP___Deposition_Measurements/SchematicMeasure.jpg",
+    "action": "copied"
+  },
+  {
+    "path": "reference_figures/figLocation.jpg",
+    "source": "Measurements Paper/ACP___Deposition_Measurements/figLocation.jpg",
+    "action": "copied"
+  },
+  {
+    "path": "reference_figures/Fragment_wd_default_fit.jpg",
+    "source": "Measurements Paper/ACP___Deposition_Measurements/Fragment_wd_default_fit.jpg",
+    "action": "copied"
+  },
+  {
+    "path": "reference_figures/Anza_wd_default.jpg",
+    "source": "Measurements Paper/ACP___Deposition_Measurements/Anza_wd_default.jpg",
+    "action": "copied"
+  },
+  {
+    "path": "reference_figures/Deltawd.jpg",
+    "source": "Measurements Paper/ACP___Deposition_Measurements/Deltawd.jpg",
+    "action": "copied"
+  },
+  {
+    "path": "reference_figures/combined.jpg",
+    "source": "Measurements Paper/ACP___Deposition_Measurements/combined.jpg",
+    "action": "copied"
+  },
+  {
+    "path": "reference_figures/SingleParticle.jpg",
+    "source": "Measurements Paper/ACP___Deposition_Measurements/SingleParticle.jpg",
+    "action": "copied"
+  },
+  {
+    "path": "reference_figures/elemental.jpg",
+    "source": "Measurements Paper/ACP___Deposition_Measurements/elemental.jpg",
+    "action": "copied"
+  },
+  {
+    "path": "reference_figures/FragmentFit.fig",
+    "source": "Measurements Paper/ACP___Deposition_Measurements/FragmentFit.fig",
+    "action": "copied"
+  },
+  {
+    "path": "reference_figures/Anza_wd_default.fig",
+    "source": "Measurements Paper/ACP___Deposition_Measurements/Anza_wd_default.fig",
+    "action": "copied"
+  },
+  {
+    "path": "reference_figures/FragmentFit_data.mat",
+    "source": "Measurements Paper/ACP___Deposition_Measurements/FragmentFit_data.mat",
+    "action": "copied"
+  },
+  {
+    "path": "reference_figures/Anza_wd_default_data.mat",
+    "source": "Measurements Paper/ACP___Deposition_Measurements/Anza_wd_default_data.mat",
+    "action": "copied"
+  },
+  {
+    "path": "assets/enhancement/combined.fig",
+    "source": "figures/enhancement/Figure_06_enhancement_comparison.fig",
+    "action": "copied"
+  },
+  {
+    "path": "assets/schematic/Schematic.pptx",
+    "source": "figures/ocotillo/sensitivity/schematic_assets/Schematic.pptx",
+    "action": "copied"
+  },
+  {
+    "path": "assets/particles/SingleParticle.pptx",
+    "source": "figures/ocotillo/sensitivity/single_particle/SingleParticle.pptx",
+    "action": "copied"
+  },
+  {
+    "path": "assets/particles/density.xlsx",
+    "source": "figures/ocotillo/sensitivity/single_particle/density.xlsx",
+    "action": "copied"
+  },
+  {
+    "path": "assets/particles/elemental.pdf",
+    "source": "figures/ocotillo/sensitivity/single_particle/elemental.pdf",
+    "action": "copied"
+  },
+  {
+    "path": "src/location/figLocation.m",
+    "source": "figures/ocotillo/sensitivity/location_assets/figLocation.m",
+    "action": "portable paths; unused DEM/colormap loads removed; input is losslessly stored MAT raster; trailing whitespace normalized"
+  },
+  {
+    "path": "assets/location/NOAA-21.mat",
+    "source": "figures/ocotillo/sensitivity/location_assets/NOAA-21.tif",
+    "action": "lossless MATLAB save of raster A and geographic limits/raster size R"
+  }
+]

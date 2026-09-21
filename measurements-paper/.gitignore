@@ -1,0 +1,13 @@
+# This self-contained figure archive intentionally versions its selected data.
+!data/
+!data/**
+!*.mat
+!*.fig
+!*.jpg
+!*.pdf
+!*.pptx
+!*.xlsx
+.DS_Store
+*.asv
+/output/
+/figures/
